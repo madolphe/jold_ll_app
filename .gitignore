@@ -1,0 +1,5 @@
+*.pyc
+.vscode
+.idea/
+*migrations/
+.ipynb_checkpoints/
